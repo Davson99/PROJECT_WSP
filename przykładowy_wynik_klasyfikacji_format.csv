@@ -1,0 +1,6 @@
+Sample.Name;plate;predictedClass;benignProbability;malignantProbability
+Sample1;D:/plate1.xlsx;malignant;0,131350191;0,868649809
+Sample2;D:/plate1.xlsx;benign;0,673267256;0,326732744
+Sample3;D:/plate1.xlsx;malignant;0,043780662;0,956219338
+Sample4;D:/plate1.xlsx;benign;0,62122578;0,37877422
+Sample5;D:/plate1.xlsx;benign;0,62122578;0,37877422
